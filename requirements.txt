@@ -1,0 +1,5 @@
+python-telegram-bot
+shazamio
+syncedlyrics
+yt-dlp
+mutagen
